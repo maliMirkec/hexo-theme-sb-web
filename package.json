@@ -1,10 +1,28 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "hexo-theme-sb-web",
+  "version": "1.0.0",
+  "description": "Official website for Hexo Theme SB. ",
   "private": true,
-  "hexo": {
-    "version": "3.5.0"
+  "author": "Silvestar Bistrović <malimirkeccita@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hexo",
+    "hexo-theme",
+    "theme",
+    "cms",
+    "blog",
+    "framework",
+    "pug",
+    "svg",
+    "red",
+    "pink",
+    "starter-project",
+    "sb"
+  ],
+  "bugs": {
+    "url": "https://github.com/maliMirkec/hexo-theme-sb/issues"
   },
+  "homepage": "https://sbtheme.silvestarbistrovic.from.hr",
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-generator-archive": "^0.1.4",
@@ -17,6 +35,6 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
-    "hexo-theme-sb": "^1.0.11"
+    "hexo-theme-sb": "^1.0.12"
   }
 }

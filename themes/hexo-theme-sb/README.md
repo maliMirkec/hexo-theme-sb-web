@@ -1,6 +1,9 @@
 # hexo-theme-sb
 
-Clean and simple theme for Hexo blog framework.
+[Hexo Theme SB](https://sbtheme.silvestarbistrovic.from.hr) Clean and simple theme for Hexo blog framework.
+
+Official website: [https://sbtheme.silvestarbistrovic.from.hr](https://sbtheme.silvestarbistrovic.from.hr)
+Used on: [https://www.silvestarbistrovic.from.hr](https://www.silvestarbistrovic.from.hr)
 
 ## Installation
 
@@ -111,7 +114,7 @@ widgets:
     codepen: //codepen.io/CiTA/
     lastfm: //www.last.fm/user/maliMirkec
   google_analytics:
-    tracking_id: UA-37881833-5
+    tracking_id: UA-12345678-9
   disqus:
     shortname: silvestarbistrovic
   sharing:
