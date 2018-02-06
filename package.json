@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-sb-web",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official website for Hexo Theme SB. ",
   "private": true,
   "author": "Silvestar Bistrović <malimirkeccita@gmail.com>",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/maliMirkec/hexo-theme-sb/issues"
   },
-  "homepage": "https://sbtheme.silvestarbistrovic.from.hr",,
+  "homepage": "https://sbtheme.silvestarbistrovic.from.hr",
   "scripts": {
     "deploy": "hexo generate"
   },
