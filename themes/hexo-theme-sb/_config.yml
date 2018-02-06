@@ -1,0 +1,61 @@
+# General section
+site:
+  full_name: Hexo Theme SB
+  short_name: SB
+  description: Clean and simple theme for Hexo blog framework.
+  language: en_US
+
+# Menu section
+menu:
+  centered: true
+  items:
+    Home: /
+    Docs: /categories/docs/
+    About: /about/
+
+# Homepage section
+home_page:
+  - section:
+    title: Hexo Theme SB
+    paragraphs:
+     - Clean and simple theme for Hexo blog framework.
+  - section:
+    title: Author
+    paragraphs:
+     - Silvestar Bistrović
+    links:
+      Website: //www.silvestarbistrovic.from.hr
+      Mail: mailto:me@silvestarbistrovic.from.hr?Subject=Hello
+  - section:
+    title: Docs
+    links:
+      Getting Started: /docs/getting-started/
+      About: /about/
+  - section:
+    title: Links
+    links:
+      Github: //github.com/maliMirkec/hexo-theme-sb
+      Starter Project: //starter.silvestarbistrovic.from.hr
+
+# Open Graph section
+open_graph:
+  pretty_url: true
+  image: /gfx/jpg/sb-big.jpg
+  fb:
+    fb_id: 340933169673372
+    fb_admins: malimirkeccita
+  twitter:
+    twitter_id: malimirkeccita
+  google_plus:
+    google_plus_id: +SilvestarbistrovicFromHr
+
+# Widgets
+widgets:
+  contact:
+    mail: mailto:me@silvestarbistrovic.from.hr?Subject=Hello
+    github: //github.com/maliMirkec/hexo-theme-sb
+  disqus:
+    shortname: silvestarbistrovic
+  sharing:
+    twitter: malimirkeccita
+    facebook: silvestarbistrovic.from.hr
