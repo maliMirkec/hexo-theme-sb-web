@@ -1201,9 +1201,9 @@ hexo-server@^0.2.0:
     opn "^4.0.0"
     serve-static "^1.10.0"
 
-hexo-theme-sb@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/hexo-theme-sb/-/hexo-theme-sb-1.0.12.tgz#78e8caa5082794818a12229e4dfc028709bae7e8"
+hexo-theme-sb@^1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/hexo-theme-sb/-/hexo-theme-sb-1.0.14.tgz#edd4cbe04bbfd8c4c7cc1021a199096b25de03b5"
   dependencies:
     hexo-helper-inline-svg "^1.1.1"
     hexo-render-pug "^1.2.0"
