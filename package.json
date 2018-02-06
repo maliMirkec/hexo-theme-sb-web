@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-sb-web",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Official website for Hexo Theme SB. ",
   "private": true,
   "author": "Silvestar Bistrović <malimirkeccita@gmail.com>",
@@ -25,6 +25,9 @@
   "homepage": "https://sbtheme.silvestarbistrovic.from.hr",
   "scripts": {
     "deploy": "hexo generate"
+  },
+  "hexo": {
+    "version": "3.5.0"
   },
   "dependencies": {
     "hexo": "^3.2.0",
