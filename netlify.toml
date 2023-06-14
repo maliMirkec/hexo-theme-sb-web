@@ -32,4 +32,4 @@
   from = "/tags/theme/"
   to = "https://www.silvestar.codes/side-projects/sbtheme/tags-hexo/"
   status = 301
-  force = 
+  force = true
